@@ -12,7 +12,6 @@
             This Banking Application, built with Java using the JavaFX framework for the user interface and MySQL for backend database management, offers an intuitive and robust platform for managing bank accounts and transactions.
         </p>
     </header>
-    
     <section>
         <h2 style="color: #4CAF50;">Technological Highlights</h2>
         <ul>
@@ -21,7 +20,6 @@
             <li><strong>Architecture:</strong> Implements MVC (Model-View-Controller) design pattern for modularity and scalability.</li>
         </ul>
     </section>
-
     <section>
         <h2 style="color: #4CAF50;">Key Features and Functionalities</h2>
         <ul>
@@ -51,7 +49,6 @@
             </li>
         </ul>
     </section>
-
     <footer>
         <h2 style="color: #4CAF50;">About the Developer</h2>
         <p>
